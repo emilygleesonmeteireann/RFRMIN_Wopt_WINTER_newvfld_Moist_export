@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>1h Precipitation</VAR>
+<UNIT>mm/1h</UNIT>
+<PERIOD>20200203-20200217</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.279999971     </MEAN_OBS>
+ <STDV_OBS>  0.641217232     </STDV_OBS>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.257234812     </MEAN>
+ <STDV>  -1.36676563E+14 </STDV>
+ <BIAS>  0.668820858     </BIAS>
+ <RMSE>  0.571489573     </RMSE>
+ <CORR>  -1.34033246E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>RFRMIN1_Wopt</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.673414826     </BIAS>
+ <RMSE>  0.568931699     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7024 </ID>
+ <NAME>RFRMIN1_Wopt_Moist</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   2500.51294     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.664736807     </BIAS>
+ <RMSE>  0.561333001     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.149162009     </MEAN_OBS>
+ <STDV_OBS>  0.529822350     </STDV_OBS>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>  0.169867903     </MEAN>
+ <STDV>   4.86397892E+29 </STDV>
+ <BIAS>  0.486079633     </BIAS>
+ <RMSE>  0.618331611     </RMSE>
+ <CORR>  -1.37261081E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>RFRMIN1_Wopt</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.445467383     </BIAS>
+ <RMSE>  0.664056838     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7028 </ID>
+ <NAME>RFRMIN1_Wopt_Moist</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>   2707.31543     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.433792084     </BIAS>
+ <RMSE>  0.669371426     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.113128446     </MEAN_OBS>
+ <STDV_OBS>  0.493802398     </STDV_OBS>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>  0.143876106     </MEAN>
+ <STDV>  -1.37260813E+14 </STDV>
+ <BIAS>  0.447899014     </BIAS>
+ <RMSE>  0.406211376     </RMSE>
+ <CORR>  -1.34033237E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>RFRMIN1_Wopt</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.457100242     </BIAS>
+ <RMSE>  0.411097616     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7117 </ID>
+ <NAME>RFRMIN1_Wopt_Moist</NAME>
+ <NUM>         716 </NUM>
+ <MEAN>   2839.56885     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.486765921     </BIAS>
+ <RMSE>  0.393552482     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.125555590     </MEAN_OBS>
+ <STDV_OBS>  0.511872768     </STDV_OBS>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>RFRMIN1</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>  0.132847548     </MEAN>
+ <STDV>  -1.33548493E+14 </STDV>
+ <BIAS>  0.529231489     </BIAS>
+ <RMSE>  0.416061729     </RMSE>
+ <CORR>  -1.34033766E+14 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>RFRMIN1_Wopt</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.549048543     </BIAS>
+ <RMSE>  0.383381337     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        7118 </ID>
+ <NAME>RFRMIN1_Wopt_Moist</NAME>
+ <NUM>         720 </NUM>
+ <MEAN>   3134.30029     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.521300435     </BIAS>
+ <RMSE>  0.417110562     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
